@@ -5,6 +5,7 @@ providing personalized guidance, secure information storage, and access to local
 The app is expected to offer flexible planning, privacy features, 
 and regular reminders to ensure users can manage and update their safety plans as their situations change.
 
+Note this repo is forked from the original one I worked on. Updated since August 26th, 2025. No more changes should occur than on that date. 
 
 ### Requirements
 - Ensure google-services.json is in the app folder
